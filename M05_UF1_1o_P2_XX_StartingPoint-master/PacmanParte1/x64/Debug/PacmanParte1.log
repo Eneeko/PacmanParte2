@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Admin\Desktop\M05_UF1_1o_P2_XX_StartingPoint-master\PacmanParte1\ConsoleUtils.h(41,17): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\Admin\Desktop\M05_UF1_1o_P2_XX_StartingPoint-master\PacmanParte1\ConsoleUtils.h(41,20): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+  Map.cpp
+C:\Users\Admin\Desktop\M05_UF1_1o_P2_XX_StartingPoint-master\PacmanParte1\ConsoleUtils.h(41,17): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\Admin\Desktop\M05_UF1_1o_P2_XX_StartingPoint-master\PacmanParte1\ConsoleUtils.h(41,20): warning C4838: la conversión de 'int' en 'SHORT' requiere una conversión de restricción
+C:\Users\Admin\Desktop\M05_UF1_1o_P2_XX_StartingPoint-master\PacmanParte1\Map.cpp(34,16): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  PacmanParte1.vcxproj -> C:\Users\Admin\Desktop\M05_UF1_1o_P2_XX_StartingPoint-master\x64\Debug\PacmanParte1.exe
